@@ -192,7 +192,7 @@ gunplaList = [
     grade:
         "MG",
     price:
-        "2,279 Baht",
+        "2,800 Baht",
     imagePath:
         "images/cover09.jpg",
     status:
